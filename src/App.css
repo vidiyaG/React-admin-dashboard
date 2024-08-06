@@ -37,9 +37,11 @@
     }
 }
 .main-container {
-    background-image: url("../public/netfilx_background.svg");
     width: 100vw;
     height: 100vh;
-    background-size: cover;
-    border: 1px solid green;
+    /* background-color: #282c34; */
+}
+html,
+body {
+    /* font-size: 12px; */
 }

@@ -1,0 +1,7 @@
+{
+    "hosting": {
+        "site": "admin-dashboard-d69d4",
+        "public": "build",
+        "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+    }
+}
