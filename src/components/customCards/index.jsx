@@ -72,7 +72,7 @@ export default function CustomCards() {
                     >
                         <Box
                             mb="12px"
-                            p="12px"
+                            p="6px"
                             borderRadius="14px"
                             style={{
                                 backgroundColor: card?.color || "white",
